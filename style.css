@@ -33,7 +33,8 @@ body{
 }
 .isi{
     border-radius: 80px;
-    height: 50vh;
+    height: 100vh;
+    width:50px
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
@@ -44,7 +45,7 @@ body{
     margin: 5px;
 }
 .content-container{
-    border-radius: 80px;
+    border-radius: 100px;
     display: flex;
     flex-direction: column;
     justify-content: center;
