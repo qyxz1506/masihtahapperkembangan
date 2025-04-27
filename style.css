@@ -10,30 +10,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 10vh;
-    widthe: 50pxpx
+    height: 25vh;
 }
-.h2{
-    color: aliceblue;
-    padding: 10px;
-    margin: 5px;
-}
-.content-container{
-    border-radius: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 50vh;
-    widthe:50px
-    box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
-}
-.p-img{
-    color: aliceblue;
-}
-
 .ul-navbar{
     border-radius: 100px;
     display: flex;
@@ -55,12 +33,33 @@ body{
 }
 .isi{
     border-radius: 80px;
-    height: 20vh;
-    widthe: 50px;
+    height: 30vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
 }
+.h2{
+    color: aliceblue;
+    padding: 10px;
+    margin: 5px;
+}
+.content-container{
+    border-radius: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
+}
+.p-img{
+    color: aliceblue;
+}
+
+
+
 .footer{
     border-radius: 80px;
     display: flex;
@@ -68,8 +67,7 @@ body{
     align-items: end;
     padding: 10%;
     margin:5%;
-    height: 20vh;
-    widthe:50px;
+    height: 5vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
