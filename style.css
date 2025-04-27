@@ -2,9 +2,6 @@
     padding: 0%;
     margin: 0%;
 }
- @media (max-width: 768px) {
-        
-                    flex-direction: column;}
 body{
     background-image: url(img.png);
 }
