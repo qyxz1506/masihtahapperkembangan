@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 20vh;
     widthe: 50pxpx
 }
 .h2{
@@ -24,7 +24,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 40vh;
     widthe:50px
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
@@ -55,7 +55,7 @@ body{
 }
 .isi{
     border-radius: 80px;
-    height: 100vh;
+    height: 30vh;
     widthe: 50px;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
@@ -68,7 +68,7 @@ body{
     align-items: end;
     padding: 10%;
     margin:5%;
-    height: 100vh;
+    height: 10vh;
     widthe:50px;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
