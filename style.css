@@ -43,7 +43,7 @@ body{
 }
 .isi{
     border-radius: 80px;
-    height: 30vh;
+    height: 70vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
@@ -59,7 +59,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 40vh;
+    height: 35vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
