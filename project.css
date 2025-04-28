@@ -6,44 +6,44 @@ body{
     background-image: url(bg.png);
     height: 50vh;
 }
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vh;
+}
+.ul-navbar{
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+}
+.a{
+    color: aliceblue;
+    text-decoration: wavy;
+}
+.a:hover{
+    background-color: rgb(127, 221, 255);
+    transition: .3s ease-in-out;
+    transition: .2s;
+    border-radius: 110px;
+    text-decoration: wavy;
+ }
+.li-navbar{
+    list-style: none;
+    font-weight: 400;
+    box-shadow: box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);;
+    padding: 10px;
+    margin: 5px;
+}
 .marquee{
     font-weight: 700;
 }
 .h2{
     color: aliceblue;
-}
-.div1{
-    border-radius: 100px;
-    height: 50vh;
-    display: flex;
-    justify-content: end;
-    align-items: end;
-    padding: 20%;
-    margin: 10%;
-}
-.p1{
-    color: aliceblue;
-}
-.p1:hover{
-    background-color: rgb(0, 157, 255);
-    transition: .3s ease-in-out;
-    transition-delay: .2s;
-    border-radius: 10px;
-}
-    
-.p2{
-    color: aliceblue;
-}
-.p2:hover{
-    background-color: rgb(0, 106, 255);
-    transition: .3s ease-in-out;
-    transition-delay: .2s;
-    border-radius: 15px;
-}
-.index{
-    color: aliceblue;
-    text-decoration: wavy;
-    font-weight: 50px;
-    font-size: x-large;
-    
 }
