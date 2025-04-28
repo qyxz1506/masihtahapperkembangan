@@ -43,7 +43,7 @@ body{
 }
 .isi{
     border-radius: 80px;
-    height: 70vh;
+    height: 50vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
@@ -54,42 +54,17 @@ body{
     margin: 5px;
 }
 .content-container{
+    height: 30vh;
     border-radius: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 35vh;
     box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
 }
 .p-img{
     color: aliceblue;
-}
-
-
-
-.footer{
-    border-radius: 80px;
-    display: flex;
-    justify-content: end;
-    align-items: end;
-    padding: 10%;
-    margin:5%;
-    height: 5vh;
-    box-shadow:box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); ;
-
-}
-.p{
-  color: aliceblue;
-
-}
-.p:hover{
-    background-color: rgba(90, 126, 255, 0.704);
-    transition: .3s ease-in-out;
-    transition-delay: .2s;
-    border-radius: 10px;
+    box-decoration-break: initial;
 }
